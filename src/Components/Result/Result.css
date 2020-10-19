@@ -1,0 +1,22 @@
+.result {
+  margin-top: 40px;
+}
+
+.not_found {
+  width: inherit;
+}
+
+.result .details img {
+  width: 50px;
+  height: 50px;
+}
+
+.not_found img {
+  width: 100%;
+  height: auto;
+}
+
+.err_view {
+  color: red;
+  font-weight: bold;
+}
